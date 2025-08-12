@@ -66,7 +66,3 @@ The primary goals of this project are to:
 
 ## 📷 Dashboard Preview
 ![Retail Sales Dashboard Preview](dashboard_preview.png)
-
----
-
-## 📂 Repository Structure
